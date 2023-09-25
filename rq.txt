@@ -1,4 +1,5 @@
 pyrogram
+tgcrypto
 AnilistPython
 aiohttp==3.8.2
 Flask==2.2.2
