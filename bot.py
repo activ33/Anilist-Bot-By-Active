@@ -3,8 +3,8 @@ from AnilistPython import Anilist
 anilist = Anilist()
 
 bot = Client("My First Project",api_id=2704,
-             api_hash="73a5c5a2e53233a0e73",
-             bot_token="6483695475:AAEUrXwwE-kMRhTZAL48o60u3")
+             api_hash="",
+             bot_token="")
 
 @bot.on_message(filters.command('start'))
 def start1(bot, message):
